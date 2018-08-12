@@ -14,3 +14,6 @@ Representation learning is a fundamental problem in natural language processing.
   year={2018}
   
 }
+
+AGnews dataset used in the experiment:
+https://drive.google.com/open?id=1becf7pzfuLL7qgWqv4q-TyDYjSzodWfR
